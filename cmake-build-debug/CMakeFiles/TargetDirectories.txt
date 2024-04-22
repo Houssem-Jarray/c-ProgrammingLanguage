@@ -1,0 +1,3 @@
+/home/houssem/CLionProjects/CodeForces/cmake-build-debug/CMakeFiles/CodeForces.dir
+/home/houssem/CLionProjects/CodeForces/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/houssem/CLionProjects/CodeForces/cmake-build-debug/CMakeFiles/rebuild_cache.dir

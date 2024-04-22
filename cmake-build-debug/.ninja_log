@@ -1,0 +1,8 @@
+# ninja log v5
+1	241	1713697597493485857	CMakeFiles/CodeForces.dir/main.cpp.o	4f0178f160e448c6
+1	17	1713816543617795708	build.ninja	be4f1b598896d912
+1	258	1713713441430766456	CMakeFiles/CodeForces.dir/133A/main.cpp.o	c9a51425aedce02f
+259	321	1713713441490767651	CodeForces	f6ba9c0e45c9558c
+3	22	1713816543617795708	build.ninja	be4f1b598896d912
+0	338	1713816543957809153	CMakeFiles/CodeForces.dir/introduction_to_c_plus_plus_programming_language/main.cpp.o	36bb99659cad4ab0
+338	441	1713816544061813262	CodeForces	9f7b7439a0940e0e
