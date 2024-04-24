@@ -49,11 +49,11 @@ cmake_ninja_workdir = /home/houssem/CLionProjects/CodeForces/cmake-build-debug/
 
 build cmake_object_order_depends_target_CodeForces: phony || CMakeFiles/CodeForces.dir
 
-build CMakeFiles/CodeForces.dir/introduction_to_c_plus_plus_programming_language/main.cpp.o: CXX_COMPILER__CodeForces_unscanned_Debug /home/houssem/CLionProjects/CodeForces/introduction_to_c_plus_plus_programming_language/main.cpp || cmake_object_order_depends_target_CodeForces
-  DEP_FILE = CMakeFiles/CodeForces.dir/introduction_to_c_plus_plus_programming_language/main.cpp.o.d
+build CMakeFiles/CodeForces.dir/cppDataType/main.cpp.o: CXX_COMPILER__CodeForces_unscanned_Debug /home/houssem/CLionProjects/CodeForces/cppDataType/main.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles/CodeForces.dir/cppDataType/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/CodeForces.dir
-  OBJECT_FILE_DIR = CMakeFiles/CodeForces.dir/introduction_to_c_plus_plus_programming_language
+  OBJECT_FILE_DIR = CMakeFiles/CodeForces.dir/cppDataType
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/CodeForces.dir/introduction_to_c_plus_plus_programming_language
 #############################################
 # Link the executable CodeForces
 
-build CodeForces: CXX_EXECUTABLE_LINKER__CodeForces_Debug CMakeFiles/CodeForces.dir/introduction_to_c_plus_plus_programming_language/main.cpp.o
+build CodeForces: CXX_EXECUTABLE_LINKER__CodeForces_Debug CMakeFiles/CodeForces.dir/cppDataType/main.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/CodeForces.dir
   POST_BUILD = :
