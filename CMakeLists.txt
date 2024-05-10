@@ -87,5 +87,15 @@ add_executable(CodeForces
 #        destructor/main.cpp
 #        classString/main.cpp
 #        privateDestructor/main.cpp
-        destructObj/main.cpp
+#        destructObj/main.cpp
+#        InitializeObject/main.cpp
+#        BoxClass/main.cpp
+#        staticcDataConstructor/main.cpp
+#        Student/main.cpp
+#        staticFunction/main.cpp
+#        TicTacTeo/main.cpp
+#        Point/main.cpp
+#        ExerciceChangeObj/main.cpp
+#        nestedClass/main.cpp
+        enumClass/main.cpp
 )
