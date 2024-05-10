@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CodeForces.dir/enumClass/main.cpp.o -o CodeForces 
